@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="mercado" src=".github/python.png" width="20%"/>
+  <img alt="mercado" src=".github/python.svg" width="20%"/>
 </h1>
 
 <h2 align="center">
