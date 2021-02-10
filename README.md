@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  🎮 MercadoPy - Simulation Marketplace ➕  
+  🛒 MercadoPy - Simulation Marketplace 🛒  
 </h2>
 
 <!-- Tópicos -->
