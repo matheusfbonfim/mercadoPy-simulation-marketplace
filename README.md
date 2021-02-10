@@ -1,2 +1,0 @@
-# mercadoPy-simulation-marketplace
- 
